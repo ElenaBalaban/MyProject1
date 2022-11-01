@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                     binding.statusLayout.visibility = View.INVISIBLE
 
                 } catch (e: Exception) {
-                    binding.ststusText.text = "Страна не найдена"
+                    binding.ststusText.text = "Country not found. Try again!"
                     binding.ststusImageView.setImageResource(R.drawable.ic_baseline_error_outline_24)
 
                     binding.resultLayout.visibility = View.INVISIBLE

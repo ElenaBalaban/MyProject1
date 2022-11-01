@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyProject1</string>
+    <string name="textview">TextView</string>
+    <string name="population">Population:</string>
+    <string name="textview1">TextView</string>
+    <string name="country_name">Country name</string>
 </resources>
